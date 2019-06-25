@@ -7,7 +7,7 @@ class Book
  end
  
  def page()
-   
+   puts "And Then There Were None"
  end
  
 end
