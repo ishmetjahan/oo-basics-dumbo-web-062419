@@ -6,8 +6,8 @@ class Book
    @title = title
  end
  
- def page()
-   puts "And Then There Were None"
+ def turn_page()
+   puts "Flipping the page...wow, you read fast!"
  end
  
 end
